@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/adesire-portfolio/static/css/main.d9d4e968.chunk.css",
-    "main.js": "/adesire-portfolio/static/js/main.dad0f097.chunk.js",
-    "main.js.map": "/adesire-portfolio/static/js/main.dad0f097.chunk.js.map",
+    "main.js": "/adesire-portfolio/static/js/main.5939d474.chunk.js",
+    "main.js.map": "/adesire-portfolio/static/js/main.5939d474.chunk.js.map",
     "runtime-main.js": "/adesire-portfolio/static/js/runtime-main.3eec6377.js",
     "runtime-main.js.map": "/adesire-portfolio/static/js/runtime-main.3eec6377.js.map",
     "static/js/2.b7c7155d.chunk.js": "/adesire-portfolio/static/js/2.b7c7155d.chunk.js",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.3eec6377.js",
     "static/js/2.b7c7155d.chunk.js",
     "static/css/main.d9d4e968.chunk.css",
-    "static/js/main.dad0f097.chunk.js"
+    "static/js/main.5939d474.chunk.js"
   ]
 }
