@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Adesire/adesire.github.io/adesire-portfolio/static/css/main.17d7ddd4.chunk.css",
+    "main.js": "/Adesire/adesire.github.io/adesire-portfolio/static/js/main.dad0f097.chunk.js",
+    "main.js.map": "/Adesire/adesire.github.io/adesire-portfolio/static/js/main.dad0f097.chunk.js.map",
+    "runtime-main.js": "/Adesire/adesire.github.io/adesire-portfolio/static/js/runtime-main.9fb18cb8.js",
+    "runtime-main.js.map": "/Adesire/adesire.github.io/adesire-portfolio/static/js/runtime-main.9fb18cb8.js.map",
+    "static/js/2.b7c7155d.chunk.js": "/Adesire/adesire.github.io/adesire-portfolio/static/js/2.b7c7155d.chunk.js",
+    "static/js/2.b7c7155d.chunk.js.map": "/Adesire/adesire.github.io/adesire-portfolio/static/js/2.b7c7155d.chunk.js.map",
+    "index.html": "/Adesire/adesire.github.io/adesire-portfolio/index.html",
+    "static/css/main.17d7ddd4.chunk.css.map": "/Adesire/adesire.github.io/adesire-portfolio/static/css/main.17d7ddd4.chunk.css.map",
+    "static/js/2.b7c7155d.chunk.js.LICENSE.txt": "/Adesire/adesire.github.io/adesire-portfolio/static/js/2.b7c7155d.chunk.js.LICENSE.txt",
+    "static/media/Navigation.css": "/Adesire/adesire.github.io/adesire-portfolio/static/media/Agustina.320d237b.otf",
+    "static/media/aad_badge.80ee5979.png": "/Adesire/adesire.github.io/adesire-portfolio/static/media/aad_badge.80ee5979.png",
+    "static/media/airbnbLogo.e8497507.png": "/Adesire/adesire.github.io/adesire-portfolio/static/media/airbnbLogo.e8497507.png",
+    "static/media/font-awesome.min.css": "/Adesire/adesire.github.io/adesire-portfolio/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/github.f7165d3e.svg": "/Adesire/adesire.github.io/adesire-portfolio/static/media/github.f7165d3e.svg",
+    "static/media/google.952443d7.svg": "/Adesire/adesire.github.io/adesire-portfolio/static/media/google.952443d7.svg",
+    "static/media/hnglogo.ba0b727f.svg": "/Adesire/adesire.github.io/adesire-portfolio/static/media/hnglogo.ba0b727f.svg",
+    "static/media/javaoca.08f9bc38.svg": "/Adesire/adesire.github.io/adesire-portfolio/static/media/javaoca.08f9bc38.svg",
+    "static/media/newhorizonslogo.7b47c953.png": "/Adesire/adesire.github.io/adesire-portfolio/static/media/newhorizonslogo.7b47c953.png",
+    "static/media/nucleo.css": "/Adesire/adesire.github.io/adesire-portfolio/static/media/nucleo-icons.d6a66724.ttf",
+    "static/media/swifta.2194ec62.svg": "/Adesire/adesire.github.io/adesire-portfolio/static/media/swifta.2194ec62.svg",
+    "static/media/u-logo.019d02be.svg": "/Adesire/adesire.github.io/adesire-portfolio/static/media/u-logo.019d02be.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fb18cb8.js",
+    "static/js/2.b7c7155d.chunk.js",
+    "static/css/main.17d7ddd4.chunk.css",
+    "static/js/main.dad0f097.chunk.js"
+  ]
+}
