@@ -12,9 +12,9 @@ import airbnb from "./assets/img/icons/common/airbnbLogo.png";
 
 export const greetings = {
 	name: "Badejo Adesire",
-	title: "Hello, I'm Adesire",
+	title: "Hello, I am Adesire",
 	description:
-		"A skilled and passionate Software Developer with experience in Java, Kotlin, SpringBoot, AndroidSDK and a host of libraries and frameworks that help in acheiving my goals",
+		"A skilled and passionate Software Developer with experience in Java, Kotlin, SpringBoot, AndroidSDK and a host of libraries and frameworks that help in achieving my goals.",
 	resumeLink: "https://resume.io/r/IJ6DhBjTk",
 };
 
@@ -147,15 +147,15 @@ export const skillsSection = {
 export const SkillBars = [
 	{
 		Stack: "Android Development", //Insert stack or technology you have experience in
-		progressPercentage: "80", //Insert relative proficiency in percentage
+		progressPercentage: "90", //Insert relative proficiency in percentage
 	},
 	{
 		Stack: "Backend Development",
-		progressPercentage: "70",
+		progressPercentage: "80",
 	},
 	{
 		Stack: "Programming",
-		progressPercentage: "60",
+		progressPercentage: "70",
 	},
 ];
 
@@ -194,7 +194,7 @@ export const experience = [
 		date: "July 2019 – Present",
 		desc: "Work with many teams to bring technology solutions to life",
 		descBullets: [
-			"Developong Mobile apps for the Android operating system",
+			"Developing Mobile apps for the Android operating system",
 			"Developing Web services using Spring boot",
 		],
 	},
