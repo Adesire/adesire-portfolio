@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/adesire-portfolio/static/css/main.d9d4e968.chunk.css",
-    "main.js": "/adesire-portfolio/static/js/main.5939d474.chunk.js",
-    "main.js.map": "/adesire-portfolio/static/js/main.5939d474.chunk.js.map",
+    "main.js": "/adesire-portfolio/static/js/main.3a3f6a4e.chunk.js",
+    "main.js.map": "/adesire-portfolio/static/js/main.3a3f6a4e.chunk.js.map",
     "runtime-main.js": "/adesire-portfolio/static/js/runtime-main.3eec6377.js",
     "runtime-main.js.map": "/adesire-portfolio/static/js/runtime-main.3eec6377.js.map",
-    "static/js/2.b7c7155d.chunk.js": "/adesire-portfolio/static/js/2.b7c7155d.chunk.js",
-    "static/js/2.b7c7155d.chunk.js.map": "/adesire-portfolio/static/js/2.b7c7155d.chunk.js.map",
+    "static/js/2.98bb9854.chunk.js": "/adesire-portfolio/static/js/2.98bb9854.chunk.js",
+    "static/js/2.98bb9854.chunk.js.map": "/adesire-portfolio/static/js/2.98bb9854.chunk.js.map",
     "index.html": "/adesire-portfolio/index.html",
     "static/css/main.d9d4e968.chunk.css.map": "/adesire-portfolio/static/css/main.d9d4e968.chunk.css.map",
-    "static/js/2.b7c7155d.chunk.js.LICENSE.txt": "/adesire-portfolio/static/js/2.b7c7155d.chunk.js.LICENSE.txt",
+    "static/js/2.98bb9854.chunk.js.LICENSE.txt": "/adesire-portfolio/static/js/2.98bb9854.chunk.js.LICENSE.txt",
     "static/media/Navigation.css": "/adesire-portfolio/static/media/Agustina.320d237b.otf",
     "static/media/aad_badge.80ee5979.png": "/adesire-portfolio/static/media/aad_badge.80ee5979.png",
     "static/media/airbnbLogo.e8497507.png": "/adesire-portfolio/static/media/airbnbLogo.e8497507.png",
@@ -25,8 +25,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3eec6377.js",
-    "static/js/2.b7c7155d.chunk.js",
+    "static/js/2.98bb9854.chunk.js",
     "static/css/main.d9d4e968.chunk.css",
-    "static/js/main.5939d474.chunk.js"
+    "static/js/main.3a3f6a4e.chunk.js"
   ]
 }
