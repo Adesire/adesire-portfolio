@@ -9,15 +9,16 @@ import oracleocalogo from "./assets/img/icons/common/javaoca.svg";
 import udacitylogo from "./assets/img/icons/common/u-logo.svg";
 import aadlogo from "./assets/img/icons/common/aad_badge.png";
 import anchorlogo from "./assets/img/icons/common/anchorlogo.svg";
+import concretelogo from "./assets/img/icons/common/concretelogo.png";
 import airbnb from "./assets/img/icons/common/airbnbLogo.png";
 
 export const greetings = {
     name: "Badejo Adesire",
     title: "Hello, I am Adesire",
     description:
-        "A skilled and passionate Software Developer with experience in Java, Kotlin, SpringBoot, AndroidSDK and a host of libraries and frameworks that help in achieving my goals.",
-    resumeLink: "https://resume.io/r/6AzCXQwCr",
-    // resumeLink: "https://resume.io/r/IJ6DhBjTk",
+        "A skilled and passionate Software Developer with experience in Java, Kotlin, SpringBoot, AndroidSDK, KMM and a host of libraries and frameworks that help in achieving my goals.",
+    // resumeLink: "https://resume.io/r/6AzCXQwCr",
+    resumeLink: "https://resume.io/r/IJ6DhBjTk",
 };
 
 export const openSource = {
@@ -157,11 +158,11 @@ export const SkillBars = [
     },
     {
         Stack: "Backend Development",
-        progressPercentage: "80",
+        progressPercentage: "90",
     },
     {
         Stack: "Programming",
-        progressPercentage: "70",
+        progressPercentage: "90",
     },
 ];
 
@@ -194,27 +195,47 @@ export const educationInfo = [
 
 export const experience = [
     {
-        role: "Software Engineer",
+        role: "Senior Software Engineer",
         company: "Anchor Software Limited",
         companylogo: anchorlogo,
         date: "Dec 2023 – Present",
         desc: "Work on a highly functional team, providing solutions to interesting financial problems",
         descBullets: [
-            "Developed and manage a balance monitoring service",
-            "Create and manage API services along with documentation",
-            "Built and manage core system service, orchestrating transfers, virtual account creation and management and service to service communication",
+            "Led customer microservice implementation and maintenance",
+            "Built and manage core orchestrating microservice processing ₦1T+ value transactions",
+            "Build financial services infrastructure and tooling",
+        ],
+    },
+    {
+        role: "Senior Software Engineer",
+        company: "Swifta Systems and Services",
+        companylogo: swiftalogo,
+        date: "July 2021 – Dec 2023",
+        desc: "Leading and working with many teams to bring technology solutions to life",
+        descBullets: [
+            "Built and managed USSD retail applications serving 80M+ subscribers ",
+            "Led development of Android POS Terminal processing millions in transaction value",
+            "Developed lending infra solutions providing Lenders with credit scoring information",
         ],
     },
     {
         role: "Software Engineer",
         company: "Swifta Systems and Services",
         companylogo: swiftalogo,
-        date: "July 2019 – Dec 2023",
+        date: "July 2019 – Dec 2021",
         desc: "Work with many teams to bring technology solutions to life",
         descBullets: [
-            "Developing Mobile apps for the Android operating system",
-            "Developing Web services using Spring boot",
+            "Integrated 3rd party value added services into the Fazipay mobile app",
+            "Developed USSD solutions for providers in the Insurance and Pensions industry",
+            "Built a reporting service extracting critical business information from deployed solutions",
         ],
+    },
+    {
+        role: "Software Engineer",
+        company: "Concrete Communications Ltd",
+        companylogo: concretelogo,
+        date: "Sep 2019 – Nov 2019",
+        desc: "Built and managed Mobile and Backend for B2B market place"
     },
     {
         role: "Android Developer",
@@ -234,7 +255,7 @@ export const experience = [
 
 export const projects = [
     {
-        name: "Ticket purchasing website",
+        name: "Ou4r Ticketa",
         desc: "An app that enables purchase of tickets for a stage play",
         link: "https://ou4r.miscell.com.ng",
     },
